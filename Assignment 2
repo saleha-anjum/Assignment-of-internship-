@@ -1,0 +1,13 @@
+To install Jupyter Notebook, follow these steps:
+
+Using Anaconda 
+1. Download and Install Anaconda :
+   - Go to the [Anaconda download page](https://www.anaconda.com/products/distribution) and download the installer for your operating system.
+   - Run the installer and follow the instructions to complete the installation.
+
+2. Launch Anaconda Navigator:
+   - Open Anaconda Navigator from your start menu (Windows) or applications folder (Mac).
+
+3. Install Jupyter Notebook:
+   - In Anaconda Navigator, find the Jupyter Notebook application and click "Install".
+   - Once installed, you can launch Jupyter Notebook from Anaconda Navigator.
