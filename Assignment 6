@@ -1,0 +1,29 @@
+Install a Python library of your choice within your Colab notebook (e.g., NumPy, Pandas, Matplotlib). 
+Write code to demonstrate the usage of the installed library. 
+
+Installing Numpy
+
+Step 1: Install NumPy
+In a code cell in your Colab notebook, execute the following command to install NumPy:
+!pip install numpy
+
+Step 2: Import NumPy and Use It
+Once NumPy is installed, we can import it and demonstrate a simple array creation and operation:
+
+import numpy as np
+# Create a simple 1-dimensional NumPy array
+arr = np.array([1, 2, 3, 4, 5])
+# Print the array
+print("Original array:", arr)
+# Perform a basic operation (e.g., multiply each element by 2)
+arr_times_two = arr * 2
+# Print the result
+print("Array after multiplying each element by 2:", arr_times_two)
+
+To Invite a classmate or friend to collaborate on your Colab notebook:
+Open Your Notebook: Go to Google Colab (colab.research.google.com) and open the notebook you want to collaborate on.
+Share Button: Click on the "Share" button at the top right corner of the notebook interface.
+Enter Email: In the sharing dialog box, enter the email address of your classmate or friend with whom you want to collaborate.
+Set Permissions: Choose the appropriate sharing permissions. You can select whether they can view, comment, or edit the notebook. For collaboration, typically you'd choose either "Can edit" or "Can comment".
+Send Invitation: Click on "Send" to send the invitation. Your classmate or friend will receive an email notifying them about the shared notebook.
+Collaborate: Once they accept the invitation, both of you can work .
