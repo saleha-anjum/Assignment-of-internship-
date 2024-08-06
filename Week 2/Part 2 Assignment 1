@@ -1,0 +1,72 @@
+GeeksforGeeks Python Tutorial
+
+GeeksforGeeks offers a comprehensive Python tutorial covering various topics from basics to advanced concepts. Some key topics covered include:
+
+- Introduction to Python: Basics of Python programming, installation, and environment setup.
+-  Data Types and Variables: Covers integers, floats, strings, lists, tuples, dictionaries, etc.
+- Control Flow: Conditional statements (if, elif, else) and loops (for, while), and control statments ( break, continue, pass).
+- Functions: Defining functions, arguments, return values.
+- Modules: Importing modules and creating packages 
+- File Handling: Reading from and writing to files using Python.
+- Object-Oriented Programming: Classes, objects, inheritance, polymorphism, encapsulation.
+- Advanced Topics: Exception handling, decorators, generators, lambda functions.
+- Data structures : Decorators, generators, regular expression, list comprehension.
+
+# Function to calculate the factorial of a number
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+# Calling the function
+print(factorial(5))  # Output: 120
+
+
+ Real Python
+
+Real Python is known for its practical and in-depth Python tutorials aimed at both beginners and experienced developers. It sets itself apart with:
+
+- Quality Content: Articles and tutorials are written by Python experts with real-world experience.
+- Project-Based Learning: Tutorials often include hands-on projects and examples.
+- Intermediate to Advanced Topics: Covers web development, data science, machine learning, and more.
+- Community and Support: Active community forums and Q&A sections for additional help.
+
+
+TutorialsPoint Python Tutorial
+
+Summary of Python Basics Section:
+
+Introduction: Overview of Python and its history.
+Environment Setup: Installation steps for different operating systems.
+Basic Syntax: Explanation of Python syntax rules.
+Variable Types: Different types of variables and their usage.
+Basic Operators: Arithmetic, comparison, and logical operators.
+Decision Making: If-else statements and nested conditions.
+Loops: For and while loops, loop control statements.
+Numbers and Strings: Operations and functions on numbers and strings.
+Unique Insights:
+
+Detailed explanation of environment setup.
+Clear differentiation between mutable and immutable data types.
+Examples of nested if-else statements.
+
+
+ W3Schools Python Tutorial
+
+W3Schools offers a beginner-friendly Python tutorial with interactive examples. Key features include:
+
+- Interactive Examples: Live coding examples that users can modify and execute.
+- Learn-by-Doing: Practical examples that demonstrate Python concepts in action.
+- Clear Explanations: Step-by-step explanations with simple code snippets.
+- Quizzes and Exercises: Interactive quizzes and exercises to test understanding.
+
+ Programiz Python Programming
+
+Programiz focuses on teaching Python through practical coding exercises and tutorials. Highlights include:
+
+- Python Basics: Covers Python fundamentals from variables, data types to control structures.
+- Object-Oriented Programming: Classes, objects, inheritance, and polymorphism.
+- Advanced Topics: Generators, decorators, context managers, and functional programming.
+- Interactive Learning: Interactive code editor for practicing Python code directly on the website.
+- Community and Resources: Additional resources like quizzes, challenges, and a supportive community
